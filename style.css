@@ -889,6 +889,21 @@ section {
   color: rgba(255, 255, 255, 0.35);
 }
 
+.footer-dev {
+  margin-top: 0.4rem;
+  font-size: 0.7rem;
+  color: rgba(255, 255, 255, 0.2);
+}
+
+.footer-dev a {
+  color: rgba(255, 255, 255, 0.2);
+  transition: color var(--transition);
+}
+
+.footer-dev a:hover {
+  color: rgba(255, 255, 255, 0.55);
+}
+
 /* ============================================================
    FLOATING WHATSAPP BUTTON
    ============================================================ */
