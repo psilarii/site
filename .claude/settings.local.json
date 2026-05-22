@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"D:\\\\projetosPessoais\\\\site-larissa\" -Recurse -Force)",
-      "Bash(Select-Object FullName, PSIsContainer)",
-      "Bash(Sort-Object FullName)"
-    ]
-  }
-}
