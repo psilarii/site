@@ -1,4 +1,4 @@
-# Site da Psicóloga Larissa Lorrayne
+# Site da Psicóloga Larissa Silva
 
 Landing page estática (HTML/CSS/JS puro) publicada via GitHub Pages — sem backend, sem build, sem dependências.
 
